@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/m3h-web-dev-portfolio.com/static/css/main.4f05d21f.css",
+    "main.css": "/m3h-web-dev-portfolio.com/static/css/main.f5842b1c.css",
     "main.js": "/m3h-web-dev-portfolio.com/static/js/main.6c4309b7.js",
     "static/js/453.69a3e7c6.chunk.js": "/m3h-web-dev-portfolio.com/static/js/453.69a3e7c6.chunk.js",
     "static/media/WhatsApp_Image_2024-06-17_at_10.43.52_cf3fd62c-removebg-preview.png": "/m3h-web-dev-portfolio.com/static/media/WhatsApp_Image_2024-06-17_at_10.43.52_cf3fd62c-removebg-preview.2ca3ed5d99f857f89bf3.png",
     "index.html": "/m3h-web-dev-portfolio.com/index.html",
-    "main.4f05d21f.css.map": "/m3h-web-dev-portfolio.com/static/css/main.4f05d21f.css.map",
+    "main.f5842b1c.css.map": "/m3h-web-dev-portfolio.com/static/css/main.f5842b1c.css.map",
     "main.6c4309b7.js.map": "/m3h-web-dev-portfolio.com/static/js/main.6c4309b7.js.map",
     "453.69a3e7c6.chunk.js.map": "/m3h-web-dev-portfolio.com/static/js/453.69a3e7c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f05d21f.css",
+    "static/css/main.f5842b1c.css",
     "static/js/main.6c4309b7.js"
   ]
 }
